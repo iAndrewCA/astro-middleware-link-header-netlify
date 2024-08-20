@@ -1,5 +1,5 @@
 # astro-middleware-link-header-vercel
-Astro Middleware that generates Link headers for Vercel. 
+Astro Middleware that generates Link headers for Netlify. 
 
 Good for setting up 103 Early Hints with CloudFlare.
 
